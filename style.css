@@ -1,0 +1,32 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    color: white;
+}
+.note{
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image: url("photo-1614149162883-504ce4d13909.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.div_speed{
+    position: relative;
+
+}
+#speed101{
+    font-size: 20px;
+    margin: 15px;
+}
+.note2{
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+}
+canvas{
+    border-color:rgb(255, 255, 255) ;
+    border: 4px solid rgb(131, 133, 134);
+    border-radius: 50px;
+}
